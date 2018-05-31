@@ -50,12 +50,12 @@ do
 	fi
 done
 
-echo "";
+#echo "";
 
-echo "-----------------------------------"
-echo "Checking OpenVPN login" | lolcat;
-echo "-----------------------------------"
-tail -f /etc/openvpn/server-vpn.log
+#echo "-----------------------------------"
+#echo "Checking OpenVPN login" | lolcat;
+#echo "-----------------------------------"
+#tail -f /etc/openvpn/server-vpn.log
 
 echo "";
 
