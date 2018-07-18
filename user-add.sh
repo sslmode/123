@@ -56,7 +56,7 @@ echo -e "   HACKING-DDOS-PHISING-SPAM-TORENT        " | lolcat
 echo -e "   CARDING-CRIMINAL CYBER.                 "| lolcat
 echo -e "===========================================" | lolcat
 echo -e "   Config OVPN:                            "| lolcat
-echo -e "   http://$MYIP:989/client.ovpn       " | lolcat
+echo -e "   http://$MYIP:81/client.ovpn       " | lolcat
 echo -e "-------------------------------------------" | lolcat
 echo -e ""
 echo -e ""
